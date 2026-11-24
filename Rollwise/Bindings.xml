@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="ROLLWISE_WISH" header="ROLLWISE" category="ADDONS">
+    Rollwise_WishHovered()
+  </Binding>
+</Bindings>

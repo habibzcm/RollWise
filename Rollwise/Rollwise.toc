@@ -1,0 +1,24 @@
+## Interface: 16001
+## Title: |cff4fc3f7Roll|r|cffffd100wise|r
+## Notes: See every Need, Greed and Pass as it happens: picks grouped by main spec / off spec, roll bars, your odds, the winner, a wishlist, a run journal and quiet loot chat. /rollwise
+## Author: Habibz
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\Rollwise\media\icon
+## SavedVariables: RollwiseDB
+## AddonCompartmentFunc: Rollwise_Compartment
+## AddonCompartmentFuncOnEnter: Rollwise_CompartmentHover
+## AddonCompartmentFuncOnLeave: Rollwise_CompartmentLeave
+## Category: Inventory
+
+Safe.lua
+Core.lua
+Widgets.lua
+Journal.lua
+Ledger.lua
+Chatter.lua
+Wishlist.lua
+Preview.lua
+Cards.lua
+Tray.lua
+Settings.lua
+Window.lua
